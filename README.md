@@ -17,7 +17,7 @@ Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Feature Engineer
 
 ## 🚀 Projects
 
-### 🏠 Real Estate Investment Evaluation Platform
+### 🏠 Real Estate Price Prediction Platform
 
 Built an end-to-end property price prediction system. Developed a regression model, performed EDA, and deployed it using FastAPI with a Streamlit interface for real-time predictions.
 **Tools:** Python, FastAPI, Streamlit, Machine Learning
