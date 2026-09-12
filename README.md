@@ -8,7 +8,7 @@
 ## 🛠️ Skills
 
 **Languages & Tools:**
-Python, Machine Learning, FastAPI, Streamlit, Power BI, Excel, GenAI
+Python, Machine Learning, NLP, FastAPI, Streamlit, Power BI, Excel, GenAI
 
 **Techniques:**
 Data Cleaning & Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering, Model Evaluation, Data Visualization
