@@ -1,6 +1,6 @@
 # Hi, I'm Taarush 👋
 
-📊 Data Analytics | Machine Learning | Business Intelligence
+📊 Data Science | Data Analytics | Machine Learning | NLP
 💡 Focused on building real-world, end-to-end data solutions
 
 ---
@@ -69,14 +69,3 @@ Performed EDA, feature engineering, and created a Power BI dashboard to visualiz
 
 📧 [taarushgabasonic@gmail.com](mailto:taarushgabasonic@gmail.com)
 📱 8527602544
-
----
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
